@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Content>
+  <Level id="l1">
+    <SecondLevel id="sl1">Content 1</SecondLevel>
+  </Level>
+  <Level id="l2">
+    <SecondLevel id="sl2">Content 2</SecondLevel>
+  </Level>
+</Content>
