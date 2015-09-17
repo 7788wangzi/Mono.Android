@@ -173,4 +173,5 @@
         }
     }
 
-![picture](C:\Users\v-qixue.FAREAST\Desktop\Android\New folder\actionTab.png)
+
+![ActionBar Tab](https://github.com/7788wangzi/Mono.Android/blob/master/Screen/ActionbarTab.png "Actionbar Tab ")

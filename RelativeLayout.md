@@ -98,5 +98,5 @@
           </LinearLayout>
       </RelativeLayout>
 
-页面截图如下
-![picture](C:\Users\v-qixue.FAREAST\Desktop\Android\New folder\webview.png)
+页面截图如下  
+![Relative Layout](https://github.com/7788wangzi/Mono.Android/blob/master/Screen/WebView.png)

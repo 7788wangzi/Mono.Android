@@ -106,4 +106,4 @@
 
 
 
-![picture]('C:\Users\v-qixue.FAREAST\Desktop\Android\New folder\ListAdapter.png')
+![List Adapter](https://github.com/7788wangzi/Mono.Android/blob/master/Screen/ListAdapter.png)
